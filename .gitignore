@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pt
+*.log
+
+# Virtual Environment
+venv/
+env/
+
+# Results & logs
+results/logs/
+results/plots/
+results/models/
+
+# VS Code
+.vscode/
+
+# OS 관련
+.DS_Store
+Thumbs.db
