@@ -18,6 +18,7 @@
 - LSTM 기반 정책 네트워크
 
 ## 📁 폴더 구조
+```
 Medical-Treatment-RL/
 ├── envs/ # POMDP 환경 정의
 │ ├── medical_pomdp_simulator.py
@@ -37,6 +38,7 @@ Medical-Treatment-RL/
 ├── main.py # 메인 실행 파일 (옵션)
 ├── requirements.txt
 └── README.md
+```
 ## 📊 결과 예시
 
 - PPO 학습 리워드 그래프:
